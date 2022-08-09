@@ -14,6 +14,9 @@
 ![image](https://user-images.githubusercontent.com/105740772/183537047-3512a169-47d3-4139-a730-36a920fb9a4e.png)
 
 ### Capítulo XVIII
+
+![image](https://user-images.githubusercontent.com/105740772/183538740-93576247-2dc2-4870-9154-0b2a9c7fbb17.png)
+
 ## 3. Explicación y resolución de los ejercicios
 ### Capítulo
 ### Capítulo
