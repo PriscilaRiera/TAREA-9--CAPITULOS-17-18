@@ -28,6 +28,10 @@
 ### Capítulo
 ## 4. Video
 ## 5. Conclusiones
+- Los circuitos RCL son aquellos circuitos que poseen una resistencia, un inductor y un condesador que se encuentran conectados en serie o en paralelo, estos se diferencian entre si mediante la forma en que estan compuestos.
+
+- Los filtros pasabajas son aquellos que permiten pasar señales de baja frecuencia desde la entrada hasta la salida mientras rechaza las señales de baja frecuencia, los filtros pasaaltas permiten el paso de las señales de alta frecuencia desde la entrada hasta la salida mientras rechaza las señale de baja freciencia, los filtros pasabanda permiten el paso de cierta banda de frecuencias y disminuye o rechaza por completo las frecuencias que estan por debajo y por encima de la banda de paso, por último los filtros pasabanda permiten el paso de cierta banda de frecuencias y disminuye o rechaza todas las frecuencias que estan por debajo y por encima de la banda de paso.
+
 ## 6. Bibliografía
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
