@@ -1,7 +1,7 @@
 # TAREA-9--CAPITULOS-17-18
 ## 1. Objetivos
 ### Objetivo general
-- Comprender qué son los circuitos RCl y resonancia y los filtros pasivos mediante la lectura e investigación de fuentes confiables con el fin de poner en práctica los conocimientos al momento de resolver los ejercicios.
+- Comprender qué son los circuitos RCL y resonancia y los filtros pasivos mediante la lectura e investigación de fuentes confiables con el fin de poner en práctica los conocimientos al momento de resolver los ejercicios.
 
 ### Objetivos específicos
 - Describir a los circuitos RCL en circuitos en serie, en paralelo y en serie- paralelo, de igual manera la resonancia en serie y paralelo y el ancho de banda en circuitos resonantes. 
