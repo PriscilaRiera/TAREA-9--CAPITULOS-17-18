@@ -25,8 +25,106 @@
 
 ## 3. Explicación y resolución de los ejercicios
 ### Capítulo XVII
+2. Determine la impedancia en la figura 17-59 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/105740772/187298786-53ae27c5-a9cd-4f0a-a787-b9e94edcf67a.png)
+
+4. Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ω.
+
+![image](https://user-images.githubusercontent.com/105740772/187298900-a80d6c4b-4632-42f8-8052-87040a07d040.png)
+
+6. Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.
+
+![image](https://user-images.githubusercontent.com/105740772/187299129-d2ee9d53-e2a2-4f85-a350-06bb3a2282a0.png)
+
+8. Para el circuito de la figura 17-59, ¿es la frecuencia resonante más alta o más baja que el valor indicado por los valores de reactancia?
+
+![image](https://user-images.githubusercontent.com/105740772/187299312-ed7c9c44-3783-4d5e-9bf9-364f4974bb06.png)
+
+10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante.
+
+![image](https://user-images.githubusercontent.com/105740772/187299458-192ef434-0885-4079-958e-db6192fffd89.png)
+
+12. Para el circuito RLC de la figura 17-62, determine la frecuencia resonante.
+
+![image](https://user-images.githubusercontent.com/105740772/187299597-81ffc78a-ca8e-454b-b18f-0097ebb38db5.png)
+
+14. En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias críticas. ¿Cuál es el ángulo de fase en condición de resonancia?
+
+![image](https://user-images.githubusercontent.com/105740772/187299740-868952ac-0d26-4ebe-b4b5-12af6d1153af.png)
+
+16. Exprese en forma polar la impedancia del circuito de la figura 17-63.
+
+![image](https://user-images.githubusercontent.com/105740772/187299841-76db5906-4207-4968-b564-bdc478e144cb.png)
+
+18. ¿A qué frecuencia el circuito de la figura 17-63 cambia su característica reactiva (de inductiva a capacitiva o viceversa)?
+
+![image](https://user-images.githubusercontent.com/105740772/187299948-60df9603-dd94-4984-9a8f-4881cdff3c2e.png)
+
+20. Determine la impedancia total del circuito de la figura 17-63 a 50 kHz.
+
+![image](https://user-images.githubusercontent.com/105740772/187300123-4dfe702b-a333-4c63-8253-18919fad0e48.png)
+
+22. ¿Cuál es la impedancia de un circuito resonante ideal dispuesto en paralelo (sin resistencia en las ramas)?
+
+![image](https://user-images.githubusercontent.com/105740772/187300394-cdef24c8-ad0f-4ef1-8185-8de3cf38fa61.png)
+
+24. ¿Cuánta corriente se extrae de la fuente de la figura 17-64 en condición de resonancia? ¿Cuáles son las corrientes inductiva y capacitiva en la frecuencia resonante?
+
+![image](https://user-images.githubusercontent.com/105740772/187300890-e782ddfe-9327-4d2b-9041-bd76f966a41b.png)
+
+26. Encuentre la impedancia total para cada circuito de la figura 17-65.
+
+![image](https://user-images.githubusercontent.com/105740772/187300972-7b456fe1-b04d-4f28-838d-0eccce97e799.png)
+
+28. Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en forma polar.
+
+![image](https://user-images.githubusercontent.com/105740772/187301139-3f8da1a7-4f27-4f2e-b801-4288fc073ca9.png)
+
+30. ¿Cuál es la corriente a través de R2 en la figura 17-67?
+
+![image](https://user-images.githubusercontent.com/105740772/187301421-8ba11794-76f7-417a-b7c8-7604adc3bd86.png)
+
+32. Determine la resistencia y la reactancia totales en la figura 17-68.
+
+![image](https://user-images.githubusercontent.com/105740772/187301554-b28df754-b2f0-4cee-b26a-d9fc5e9bcbe5.png)
+
+34. Determine si existe un valor de C que hará Vab = 0 V en la figura 17-69. Si no lo hay, explique la razón.
+
+![image](https://user-images.githubusercontent.com/105740772/187302373-1dd5805a-7cc8-43c1-b6d0-0e132660de82.png)
+
+36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?
+
+![image](https://user-images.githubusercontent.com/105740772/187302720-6c957ba3-a431-4ac1-86fc-785e54ddd177.png)
+
+38. Diseñe un red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 µH con resistencia de devanado de 5 Ω.
+
+![image](https://user-images.githubusercontent.com/105740772/187302925-45369665-1d5f-49bd-a31c-1ae8ce75638e.png)
+
+40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?
+
+![image](https://user-images.githubusercontent.com/105740772/187302991-cfd314d2-7c16-4d17-a4f9-35405f46a2a0.png)
+
+42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.
+
+![image](https://user-images.githubusercontent.com/105740772/187303047-8b098647-f3bf-4102-9ce1-9e58e3c6b034.png)
+
 ### Capítulo XVIII
+2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent = 5 V.
+6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40.
+8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB:
+10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc = 1 kHz):
+12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent = 10 V).
+16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
+18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro.
+20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
+22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW = 0 Ω para cada bobina.
+24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
+26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 50 V?
 ## 4. Video
+
 ## 5. Conclusiones
 - Los circuitos RCL son aquellos circuitos que poseen una resistencia, un inductor y un condesador que se encuentran conectados en serie o en paralelo, estos se diferencian entre si mediante la forma en que estan compuestos.
 
