@@ -164,6 +164,8 @@
 
 ## 4. Video
 
+https://www.youtube.com/watch?v=mQC1cGVisig
+
 ## 5. Conclusiones
 - Los circuitos RCL son aquellos circuitos que poseen una resistencia, un inductor y un condesador que se encuentran conectados en serie o en paralelo, estos se diferencian entre si mediante la forma en que estan compuestos.
 
